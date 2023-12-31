@@ -1,5 +1,5 @@
 # Dynamic Mesh Rendering for Neural Implicit Representations
-This repo contains mesh simplification and unity rendering example scene. The rendering targets Meta Oculus Quest 2.
+This repo contains mesh simplification and unity rendering example scene. The rendering targets Meta Oculus Quest 2, Unity Version: 2022.3.10f1.
 1. `MeshProcessing`: Python script for Blender. The extracted raw mesh sequence with vertex color will be processed by Blender and transformed to simplified meshes and corresponding texture maps (diffuse map and normal map).
 
 2. `DynamicRendering`: Unity example scene and scripts. 
